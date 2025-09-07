@@ -3,7 +3,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello From 2025!";
+    std::cout << "Hello!";
     return 0;
 }
 vvv
