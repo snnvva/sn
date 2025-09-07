@@ -3,8 +3,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hi!";
-    std::cout << "Bye!";
+    std::cout << "Good morning!";
     return 0;
 }
 vvv
