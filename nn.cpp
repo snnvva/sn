@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "hi new file!";
+    std::cout << "Hello world!";
     return 0;
 }
